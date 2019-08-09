@@ -153,7 +153,7 @@ class calculator extends JFrame implements ActionListener {
 		b5.setBounds(130, 396, 130, 67);
 		b6.setBounds(260, 396, 130, 67);
 		bsub.setBounds(390, 396, 130, 67);
-		//sixth row bounds
+		//sixth row bounds]
 		b1.setBounds(0, 463, 130, 67);
 		b2.setBounds(130, 463, 130, 67);
 		b3.setBounds(260, 463, 130, 67);
